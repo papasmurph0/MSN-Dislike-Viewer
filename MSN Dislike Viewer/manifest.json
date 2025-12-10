@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "MSN Dislike Viewer",
-    "version": "1.0.1",
+    "version": "1.1",
     "description": "Displays the dislike count on MSN articles.",
     "content_scripts": [{
         "matches": ["https://*.msn.com/*"],
